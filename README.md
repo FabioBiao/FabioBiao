@@ -2,7 +2,7 @@
 
 💻 Senior Software Engineer
 
-✈️ Digital Nomad Enthusiast
+✈️ Digital / Web Enthusiast
 
 💬 [LinkedIn](https://www.linkedin.com/in/fabio-madeira/) 
 
