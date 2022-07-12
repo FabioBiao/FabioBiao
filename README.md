@@ -7,7 +7,6 @@
 💬 [LinkedIn](https://www.linkedin.com/in/fabio-madeira/) 
 
 ## 😀 About me
-Always motivated to explore new technologies, learn, and overcome unique challenges.
 
 
 ## Repositories
