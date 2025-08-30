@@ -11,7 +11,7 @@
 
 ## Repositories
 
-Most of my repositories are public, and meant to be opensource applications, they are mainly focused in the following areas:
+Most of my public repositories are public and were used for me to learn new tech, they are mainly focused in the following areas:
 - Frontend
 - Backend
 - Infrastructure as Code/Configuration Management
